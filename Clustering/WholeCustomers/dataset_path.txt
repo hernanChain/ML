@@ -1,0 +1,2 @@
+https://www.kaggle.com/binovi/wholesale-customers-data-set
+https://raw.githubusercontent.com/hernanChain/csvFiles/master/WholesaleCustomers/WholesaleCustomers.csv
